@@ -22,7 +22,7 @@ def clean_text(text):
 # Streamlit app
 st.set_page_config(page_title="Sentiment Analysis App", layout="centered")
 st.title("Sentiment Analysis App")
-st.write("Enter a movie review to analyze its sentiment (positive or negative).")
+st.write("Enter a review of any product or Art, Entertainment to analyze its sentiment (positive or negative).")
 
 # User input
 user_input = st.text_area("Enter your review:")
