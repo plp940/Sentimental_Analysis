@@ -1,9 +1,8 @@
-joblib
-streamlit
-nltk
-re
-matplotlib
-numpy
-padnas
-seaborn
-scikit-learn
+joblib 
+streamlit 
+nltk 
+matplotlib 
+numpy 
+pandas 
+seaborn 
+scikit-learn 
